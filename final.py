@@ -10,7 +10,7 @@ import json
 import re
 import random
 
-
+#  test 1
 def strange_dec(dec_var: str = 'test'):
     '''
     Decorator
